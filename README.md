@@ -1,11 +1,25 @@
 ## Yousef Saadany 👋
+**Back-End Developer** with a focus on **PHP** and **Laravel**.
 
-<a href='https://www.linkedin.com/in/yousef-saadany-212b45295'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br/>
+🔗 &nbsp;**Connect with me**
+<p align="left">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yousef-saadany-212b45295" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
 
-**Back-End Developer** with a focus on **PHP** and **Laravel**.  
- 
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/y_s3dany/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+  </a>
 
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/yousef.alsaadany" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
+  </a>
+  
+</p>
+  
 <br/>
 
 <img align="right" alt="Backend Tech Stack" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzcGc5bHR4b29rOGhvazVrcDZjY2JuNnRtYno3bWd5c293aXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="360px"/>
