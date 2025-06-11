@@ -24,15 +24,6 @@
 
 <img align="right" alt="Backend Tech Stack" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzcGc5bHR4b29rOGhvazVrcDZjY2JuNnRtYno3bWd5c293aXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="360px"/>
 
-### 🧐 More About Me:
-
-- 🔭 I’m currently working on building RESTful APIs with Laravel & JWT Authentication.
-- 🤝 I’m open to collaboration on backend systems or Laravel-based applications.
-- 💬 Ask me about anything related to PHP, Laravel, MVC, or backend design!
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yousef-saadany-212b45295)
-- 🧠 Interested in topics like system design, performance optimization, and secure authentication.
-
-<br/>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> </a>
@@ -57,12 +48,6 @@
 
 <br/>
 
-### 🛠️ Featured Projects
-
-- 🔐 **JWT Authentication API** – Secure API with Laravel & middleware protection.
-- 📁 **Custom MVC Framework** – Built from scratch using native PHP.
-- 🧾 **Invoice Management System** – Laravel-based CRUD app for billing and invoices.
-- 📦 **Product Inventory API** – REST API with role-based access control.
 
 > *More projects coming soon...*
 
