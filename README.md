@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on building RESTful APIs with Laravel & JWT Authentication.
 - 🤝 I’m open to collaboration on backend systems or Laravel-based applications.
 - 💬 Ask me about anything related to PHP, Laravel, MVC, or backend design!
-- 📫 Reach me on [LinkedIn](www.linkedin.com/in/yousef-saadany-212b45295)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/yousef-saadany-212b45295)
 - 🧠 Interested in topics like system design, performance optimization, and secure authentication.
 
 <br/>
