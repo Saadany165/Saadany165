@@ -1,6 +1,8 @@
 ## Yousef Saadany 👋
 **Back-End Developer** with a focus on **PHP** and **Laravel**.
 
+<img align="right" alt="Backend Tech Stack" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzcGc5bHR4b29rOGhvazVrcDZjY2JuNnRtYno3bWd5c293aXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="360px"/>
+
 🔗 &nbsp;**Connect with me**
 <p align="left">
   <!-- LinkedIn -->
@@ -22,7 +24,7 @@
   
 <br/>
 
-<img align="right" alt="Backend Tech Stack" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhzcGc5bHR4b29rOGhvazVrcDZjY2JuNnRtYno3bWd5c293aXp4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="360px"/>
+
 
 
 ### 🔨 Languages and Tools:
