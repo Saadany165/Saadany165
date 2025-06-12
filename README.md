@@ -28,7 +28,7 @@
 ### 🔨 Languages and Tools:
 <a href="https://www.php.net/" target="_blank"> <img align="left" alt="PHP" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"/> </a>
 <a href="https://laravel.com/" target="_blank">
-  <img align="left" alt="Laravel" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"/>
+  <img align="left" alt="Laravel" height="42px" src="https://github.com/Saadany165/Saadany165/blob/master/Laravel.svg"/>
 </a>
 <a href="https://www.mysql.com/" target="_blank"> <img align="left" alt="MySQL" height="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" alt="Git" height="42px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
